@@ -8,6 +8,7 @@ All the code is written in the **R** statistical programming launguage. For each
 ## Monte-Carlo simulations
 
 ### Data
+* results100.rda, results200.rda and results500.rda: Simulations results data over three different sample size: 100,200 and 500. 
 
 ### Code
 ##### **The Tables and Figures that each code (.R) file replicates**  
