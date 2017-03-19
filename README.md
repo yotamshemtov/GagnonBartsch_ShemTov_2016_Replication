@@ -8,11 +8,11 @@ All the code is written in the **R** statistical programming launguage. For each
 ## Monte-Carlo simulations
 
 ### Data
-* results100.rda, results200.rda and results500.rda: Simulations results data over three different sample size: 100,200 and 500. 
+* results100.rda, results200.rda and results500.rda: Simulations results data from three different sample size: 100,200 and 500. 
 
 ### Code
 ##### **The Tables and Figures that each code (.R) file replicates**  
-* *figures_fixed_rho_new.R* and *figures_fixed_rho_new.Rout*: Figure 2.
+* Figure 2: *figures_fixed_rho_new.R* and *figures_fixed_rho_new.Rout*.
 
 
 ## Real data applications
@@ -20,5 +20,5 @@ All the code is written in the **R** statistical programming launguage. For each
 
 ### Code
 ##### **The Tables and Figures that each code (.R) file replicates**  
-* *community_college_analysis.R* and *community_college_analysis.Rout*: Figures 8 and 13.    
+* Figures 8 and 13: *community_college_analysis.R* and *community_college_analysis.Rout*.    
 
