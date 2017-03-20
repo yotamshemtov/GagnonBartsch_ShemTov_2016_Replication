@@ -17,8 +17,10 @@ All the code is written in the **R** statistical programming launguage. For each
 
 ## Real data applications
 ### Data 
+All the data sets that we use are included in the package *cpt.paper* which is included in this repository.
 
 ### Code
 ##### **The Tables and Figures that each code (.R) file replicates**  
+* Table 1 and Figure 3: *layell_2009_analysis.R* and *layell_2009_analysis.Rout*. 
 * Figures 8 and 13: *community_college_analysis.R* and *community_college_analysis.Rout*.    
 
