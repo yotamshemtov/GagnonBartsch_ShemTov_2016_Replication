@@ -12,6 +12,7 @@ All the code is written in the **R** statistical programming launguage. For each
 
 ### Code
 ##### **The Tables and Figures that each code (.R) file replicates**  
+* Figure 1: *figures_sims_variable_b1.R* and *figures_sims_variable_b1.Rout*.
 * Figure 2: *figures_fixed_rho_new.R* and *figures_fixed_rho_new.Rout*.
 
 
