@@ -1,4 +1,4 @@
-# GagnonBartsch_ShemTov_2016_Replication
+# GagnonBartsch_ShemTov_2017_Replication
 
 ## Description 
 This repository provides all the code and data to replicate the tables and figures that are presented in Gagnon-Bartsch and Shem-Tov (2016). 
