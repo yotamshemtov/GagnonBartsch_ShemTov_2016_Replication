@@ -8,9 +8,9 @@ library(ggplot2)
 library(ggthemes)
 
 # Define local directory:
-user="yotam"
-if (user=="yotam"){
-  dir.dataReal <- "~/Dropbox/Class.test2/johann/johann1/analyses/real_data"
+user=""
+if (user==""){
+  dir.dataReal <- "~/Dropbox/Class.test2/user/user/analyses/real_data"
   dir.dataSim <- "~/Dropbox/Class.test2/Rcode/analyses/sims"
   dir.figures <- ""
 }
