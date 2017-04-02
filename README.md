@@ -9,11 +9,13 @@ All the code is written in the **R** statistical programming launguage. For each
 
 ### Data
 * results100.rda, results200.rda and results500.rda: Simulations results data from three different sample size: 100,200 and 500. 
+* sim3.rda contains the simultion results that are used to generate Figure 8.
 
 ### Code
 ##### **The Tables and Figures that each code (.R) file replicates**  
 * Figure 1: *figures_sims_variable_b1.R* and *figures_sims_variable_b1.Rout*.
 * Figure 2: *figures_fixed_rho_new.R* and *figures_fixed_rho_new.Rout*.
+* Figure 8: *figures_in_vs_out_sample_roc.R* and *figures_in_vs_out_sample_roc.Rout*.
 
 
 ## Real data applications
