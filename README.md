@@ -1,7 +1,8 @@
 # GagnonBartsch_ShemTov_2017_Replication
 
 ## Description 
-This repository provides replication code and data to replicate the tables and figures that are presented in Gagnon-Bartsch and Shem-Tov (2017).  
+This repository provides replication code and data to replicate the tables and figures that are presented in the paper. 
+
 
 All the code is written in the **R** statistical programming launguage. For each code file (.R) the associated log file (.Rout) is also included.
 
