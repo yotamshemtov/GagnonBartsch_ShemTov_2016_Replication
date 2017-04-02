@@ -1,4 +1,3 @@
-# GagnonBartsch_ShemTov_2017_Replication
 
 ## Description 
 This repository provides replication code and data to replicate the tables and figures that are presented in the paper. 
